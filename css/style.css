@@ -523,6 +523,9 @@ p{
     font-size: 16px;
     font-weight: 600;
 }
+.footer__mobile{
+    display: none;
+}
 @media(max-width: 1720px){
     .plan{
         max-width: 1320px;
